@@ -2,7 +2,15 @@
 
 Welcome to my public scratchpad. Do what you want with the information below. I'm posting it here, so that I don't have to look for these in various notifications.
 
-## Contributions
+## Currently working on
+
+- Jest compatibility with modern TypeScript moduleResolution and `jest.config.ts`: https://github.com/jestjs/jest/pull/14739
+
+## Planning to work on
+
+- Jest compatibility with Node16 and `.js` imports in `jest.config.ts` https://github.com/jestjs/jest/issues/13350
+
+## Past contributions
 
 I'm usually trying to contribute to tools that I use on a daily basis, if not via PRs, then at least trying to file bugs and reproduce them.
 
@@ -18,7 +26,6 @@ This is a list of some of the issues I helped tracking 🔴 or fixing 🪛 that 
 - 🪛 https://github.com/arrow-py/arrow/pull/769 (fixed whole Polish locale and added "week" timeframe)
 - 🔴 https://github.com/typeorm/typeorm/issues/9565 + https://github.com/typeorm/typeorm/pull/9572 (new entity with a foreign key id is not saved correctly)
 
-
 ## Tracked issues
 
 I'm tracking these currently:
@@ -26,10 +33,3 @@ I'm tracking these currently:
 - https://github.com/microsoft/TypeScript/issues/40426
 - https://github.com/nodejs/node/issues/47130
 
-## Currently working on
-
-- Jest compatibility with modern TypeScript moduleResolution and `jest.config.ts`: https://github.com/jestjs/jest/pull/14739
-
-## Planning to work on
-
-- Jest compatibility with Node16 and `.js` imports in `jest.config.ts` https://github.com/jestjs/jest/issues/13350

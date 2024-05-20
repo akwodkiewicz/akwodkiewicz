@@ -9,6 +9,8 @@ Welcome to my public scratchpad. Do what you want with the information below. I'
 ## Planning to work on
 
 - Jest compatibility with Node16 and `.js` imports in `jest.config.ts` https://github.com/jestjs/jest/issues/13350
+- Writing some primer on how to setup monorepos with TypeScript
+- Writing a guide on how to write NestJS modules using some particular techniques
 
 ## Past contributions
 

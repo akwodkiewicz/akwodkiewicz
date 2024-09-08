@@ -1,8 +1,3 @@
-## Planning to work on
-
-- Jest compatibility with Node16 and `.js` imports in `jest.config.ts` https://github.com/jestjs/jest/issues/13350
-- Writing some primer on how to setup monorepos with TypeScript
-- Writing a guide on how to write NestJS modules using some particular techniques
 
 ## Past contributions
 
@@ -10,7 +5,8 @@ I'm usually trying to contribute to tools that I use on a daily basis, if not vi
 
 ### Recent work
 
-Jest compatibility with modern TypeScript moduleResolution and `jest.config.ts` (https://github.com/jestjs/jest/pull/14739)
+- An exception to `no-named-as-default` rule: https://github.com/import-js/eslint-plugin-import/pull/3032
+- Jest compatibility with modern TypeScript moduleResolution and `jest.config.ts` (https://github.com/jestjs/jest/pull/14739)
 
 ### Older stuff 
 

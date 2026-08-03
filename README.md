@@ -14,6 +14,8 @@ And then also some developer-oriented platform engineering, like my past contrib
 
 ## Open source
 
+Although my contributions are not big in terms of a diff size, I always do my best to make the chagne in the best place possible, by understanding the projects' structure and then explaining my findings in the PRs and in code itself.
+
 ### Currently working on
 
 Nothing in particular.

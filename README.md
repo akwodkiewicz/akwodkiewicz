@@ -29,6 +29,7 @@ Nothing in particular.
 - https://github.com/casper-ecosystem/casper-js-sdk/pull/387: fixed `casper-js-sdk` modern TypeScript support
 - https://github.com/eslint/eslint/pull/15009: improved docs on `prefer-named-capture-group` ESLint rule
 - https://github.com/ds300/patch-package/pull/217: proposed `--ignore-error` option that later became the default behaviour
+- https://github.com/ethereum/ethereum-org-website/pull/3870: added a point on a page explaining different L2 solutions on the official Ethereum website (I actually understood these quite well back in 2021)
 - https://github.com/oclif/plugin-help/pull/264: fixed rendering argument with default value of 0
 - https://github.com/arrow-py/arrow/pull/769: fixed whole Polish locale and added "week" timeframe
 - https://github.com/typeorm/typeorm/issues/9565 + https://github.com/typeorm/typeorm/pull/9572: new entity with a foreign key id is not saved correctly
